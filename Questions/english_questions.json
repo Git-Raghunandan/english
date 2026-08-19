@@ -807,5 +807,405 @@
     "sentence": "Please close the door quietly.",
     "options": ["Door", "Window", "Chair", "Roof"],
     "answer": "Door"
+  },
+  {
+    "word": "Ancient",
+    "emoji": "🏛️",
+    "meaning": "Very old and from a long time ago",
+    "sentence": "We visited an ancient temple during our trip.",
+    "options": ["Ancient", "Modern", "New", "Tiny"],
+    "answer": "Ancient"
+  },
+  {
+    "word": "Modern",
+    "emoji": "🏢",
+    "meaning": "Related to the present time",
+    "sentence": "The city has many modern buildings.",
+    "options": ["Old", "Ancient", "Modern", "Broken"],
+    "answer": "Modern"
+  },
+  {
+    "word": "Festival",
+    "emoji": "🎊",
+    "meaning": "A special day of celebration",
+    "sentence": "Diwali is a popular festival in India.",
+    "options": ["Festival", "Homework", "Journey", "Library"],
+    "answer": "Festival"
+  },
+  {
+    "word": "Tradition",
+    "emoji": "🪔",
+    "meaning": "A custom followed for a long time",
+    "sentence": "Lighting lamps is a tradition during Diwali.",
+    "options": ["Tradition", "Machine", "Science", "Computer"],
+    "answer": "Tradition"
+  },
+  {
+    "word": "Culture",
+    "emoji": "🎭",
+    "meaning": "The customs and way of life of a group",
+    "sentence": "India is known for its rich culture.",
+    "options": ["Culture", "Garden", "Cloud", "Rock"],
+    "answer": "Culture"
+  },
+  {
+    "word": "Museum",
+    "emoji": "🏺",
+    "meaning": "A place where old objects are displayed",
+    "sentence": "The museum had many historical items.",
+    "options": ["Museum", "School", "Airport", "Market"],
+    "answer": "Museum"
+  },
+  {
+    "word": "History",
+    "emoji": "📜",
+    "meaning": "The study of past events",
+    "sentence": "History teaches us about the past.",
+    "options": ["History", "Science", "Math", "Art"],
+    "answer": "History"
+  },
+  {
+    "word": "Map",
+    "emoji": "🗺️",
+    "meaning": "A drawing showing places and directions",
+    "sentence": "We used a map to find the park.",
+    "options": ["Map", "Clock", "Book", "Bottle"],
+    "answer": "Map"
+  },
+  {
+    "word": "Direction",
+    "emoji": "🧭",
+    "meaning": "The way to a place",
+    "sentence": "Can you tell me the direction to the station?",
+    "options": ["Direction", "Question", "Answer", "Ticket"],
+    "answer": "Direction"
+  },
+  {
+    "word": "Bridge",
+    "emoji": "🌉",
+    "meaning": "A structure built over water or roads",
+    "sentence": "The bridge connects the two villages.",
+    "options": ["Bridge", "Mountain", "Tree", "House"],
+    "answer": "Bridge"
+  },
+  {
+    "word": "Traffic",
+    "emoji": "🚦",
+    "meaning": "Vehicles moving on roads",
+    "sentence": "There was heavy traffic in the city.",
+    "options": ["Traffic", "Garden", "Forest", "Ocean"],
+    "answer": "Traffic"
+  },
+  {
+    "word": "Passenger",
+    "emoji": "🧳",
+    "meaning": "A person travelling in a vehicle",
+    "sentence": "Every passenger must have a ticket.",
+    "options": ["Passenger", "Pilot", "Farmer", "Doctor"],
+    "answer": "Passenger"
+  },
+  {
+    "word": "Station",
+    "emoji": "🚉",
+    "meaning": "A place where trains stop",
+    "sentence": "We arrived at the station early.",
+    "options": ["Station", "Library", "School", "Garden"],
+    "answer": "Station"
+  },
+  {
+    "word": "Vehicle",
+    "emoji": "🚗",
+    "meaning": "Something used for transportation",
+    "sentence": "A bus is a large vehicle.",
+    "options": ["Vehicle", "Building", "Animal", "Plant"],
+    "answer": "Vehicle"
+  },
+  {
+    "word": "Safety",
+    "emoji": "🦺",
+    "meaning": "Being protected from danger",
+    "sentence": "Road safety rules are important.",
+    "options": ["Safety", "Danger", "Noise", "Speed"],
+    "answer": "Safety"
+  },
+  {
+    "word": "Environment",
+    "emoji": "🌍",
+    "meaning": "The natural world around us",
+    "sentence": "We should protect the environment.",
+    "options": ["Environment", "Computer", "Notebook", "Clock"],
+    "answer": "Environment"
+  },
+  {
+    "word": "Pollution",
+    "emoji": "🏭",
+    "meaning": "Making air, water, or land dirty",
+    "sentence": "Pollution harms living things.",
+    "options": ["Pollution", "Cleanliness", "Health", "Rain"],
+    "answer": "Pollution"
+  },
+  {
+    "word": "Recycle",
+    "emoji": "♻️",
+    "meaning": "To use materials again",
+    "sentence": "We recycle paper and plastic.",
+    "options": ["Recycle", "Throw", "Break", "Hide"],
+    "answer": "Recycle"
+  },
+  {
+    "word": "Cleanliness",
+    "emoji": "✨",
+    "meaning": "The habit of keeping things clean",
+    "sentence": "Cleanliness keeps us healthy.",
+    "options": ["Cleanliness", "Mess", "Dust", "Pollution"],
+    "answer": "Cleanliness"
+  },
+  {
+    "word": "Energy",
+    "emoji": "🔋",
+    "meaning": "Power needed to do work",
+    "sentence": "Solar panels produce energy from sunlight.",
+    "options": ["Energy", "Shadow", "Cloud", "Leaf"],
+    "answer": "Energy"
+  },
+  {
+    "word": "Electricity",
+    "emoji": "⚡",
+    "meaning": "Power used to run machines",
+    "sentence": "Electricity lights our homes.",
+    "options": ["Electricity", "Water", "Wind", "Sand"],
+    "answer": "Electricity"
+  },
+  {
+    "word": "Battery",
+    "emoji": "🔋",
+    "meaning": "A device that stores energy",
+    "sentence": "The battery powers the toy car.",
+    "options": ["Battery", "Book", "Chair", "Bottle"],
+    "answer": "Battery"
+  },
+  {
+    "word": "Invention",
+    "emoji": "💡",
+    "meaning": "Something created for the first time",
+    "sentence": "The telephone was an important invention.",
+    "options": ["Invention", "Problem", "Mistake", "Question"],
+    "answer": "Invention"
+  },
+  {
+    "word": "Discovery",
+    "emoji": "🔍",
+    "meaning": "Finding something new",
+    "sentence": "The discovery surprised the scientists.",
+    "options": ["Discovery", "Homework", "Painting", "Lunch"],
+    "answer": "Discovery"
+  },
+  {
+    "word": "Scientist",
+    "emoji": "👨‍🔬",
+    "meaning": "A person who studies science",
+    "sentence": "The scientist conducted an experiment.",
+    "options": ["Scientist", "Farmer", "Pilot", "Driver"],
+    "answer": "Scientist"
+  },
+  {
+    "word": "Experiment",
+    "emoji": "🧪",
+    "meaning": "A test to learn something",
+    "sentence": "We performed a simple experiment in class.",
+    "options": ["Experiment", "Journey", "Game", "Festival"],
+    "answer": "Experiment"
+  },
+  {
+    "word": "Planet",
+    "emoji": "🪐",
+    "meaning": "A large object that moves around a star",
+    "sentence": "Mars is known as the red planet.",
+    "options": ["Planet", "Cloud", "River", "Forest"],
+    "answer": "Planet"
+  },
+  {
+    "word": "Galaxy",
+    "emoji": "🌌",
+    "meaning": "A huge group of stars",
+    "sentence": "The Milky Way is our galaxy.",
+    "options": ["Galaxy", "Mountain", "Garden", "School"],
+    "answer": "Galaxy"
+  },
+  {
+    "word": "Astronaut",
+    "emoji": "👨‍🚀",
+    "meaning": "A person who travels in space",
+    "sentence": "The astronaut visited the space station.",
+    "options": ["Astronaut", "Teacher", "Doctor", "Farmer"],
+    "answer": "Astronaut"
+  },
+  {
+    "word": "Telescope",
+    "emoji": "🔭",
+    "meaning": "A tool used to see distant objects",
+    "sentence": "We observed the moon through a telescope.",
+    "options": ["Telescope", "Camera", "Printer", "Mouse"],
+    "answer": "Telescope"
+  },
+  {
+    "word": "Moon",
+    "emoji": "🌙",
+    "meaning": "Earth's natural satellite",
+    "sentence": "The moon looked bright tonight.",
+    "options": ["Moon", "Sun", "Cloud", "Star"],
+    "answer": "Moon"
+  },
+  {
+    "word": "Star",
+    "emoji": "⭐",
+    "meaning": "A bright object in the night sky",
+    "sentence": "Many stars twinkled in the sky.",
+    "options": ["Star", "Leaf", "Stone", "River"],
+    "answer": "Star"
+  },
+  {
+    "word": "Sunlight",
+    "emoji": "☀️",
+    "meaning": "Light coming from the sun",
+    "sentence": "Plants need sunlight to grow.",
+    "options": ["Sunlight", "Rain", "Wind", "Dust"],
+    "answer": "Sunlight"
+  },
+  {
+    "word": "Weather",
+    "emoji": "🌤️",
+    "meaning": "The condition of the atmosphere",
+    "sentence": "The weather is pleasant today.",
+    "options": ["Weather", "Garden", "Road", "House"],
+    "answer": "Weather"
+  },
+  {
+    "word": "Season",
+    "emoji": "🍂",
+    "meaning": "A period of the year with certain weather",
+    "sentence": "Winter is my favorite season.",
+    "options": ["Season", "Festival", "Lesson", "Project"],
+    "answer": "Season"
+  },
+  {
+    "word": "Spring",
+    "emoji": "🌸",
+    "meaning": "A season when flowers bloom",
+    "sentence": "Many flowers bloom in spring.",
+    "options": ["Spring", "Winter", "Night", "River"],
+    "answer": "Spring"
+  },
+  {
+    "word": "Summer",
+    "emoji": "☀️",
+    "meaning": "The hottest season of the year",
+    "sentence": "We enjoy mangoes in summer.",
+    "options": ["Summer", "Winter", "Autumn", "Rain"],
+    "answer": "Summer"
+  },
+  {
+    "word": "Winter",
+    "emoji": "❄️",
+    "meaning": "The coldest season of the year",
+    "sentence": "We wear sweaters in winter.",
+    "options": ["Winter", "Summer", "Spring", "Cloud"],
+    "answer": "Winter"
+  },
+  {
+    "word": "Autumn",
+    "emoji": "🍁",
+    "meaning": "The season when leaves fall",
+    "sentence": "Trees shed leaves in autumn.",
+    "options": ["Autumn", "Summer", "Spring", "Ocean"],
+    "answer": "Autumn"
+  },
+  {
+    "word": "Raincoat",
+    "emoji": "🧥",
+    "meaning": "A coat worn to protect from rain",
+    "sentence": "I wore a raincoat during the storm.",
+    "options": ["Raincoat", "Helmet", "Glove", "Scarf"],
+    "answer": "Raincoat"
+  },
+  {
+    "word": "Umbrella",
+    "emoji": "☂️",
+    "meaning": "A tool used to stay dry in rain",
+    "sentence": "She carried an umbrella to school.",
+    "options": ["Umbrella", "Bottle", "Pencil", "Chair"],
+    "answer": "Umbrella"
+  },
+  {
+    "word": "Farmland",
+    "emoji": "🌾",
+    "meaning": "Land used for growing crops",
+    "sentence": "The farmland was full of wheat.",
+    "options": ["Farmland", "Road", "Library", "Airport"],
+    "answer": "Farmland"
+  },
+  {
+    "word": "Harvest",
+    "emoji": "🌾",
+    "meaning": "The gathering of crops",
+    "sentence": "Farmers celebrate after the harvest.",
+    "options": ["Harvest", "Festival", "Journey", "Lesson"],
+    "answer": "Harvest"
+  },
+  {
+    "word": "Crop",
+    "emoji": "🌱",
+    "meaning": "Plants grown for food",
+    "sentence": "Rice is an important crop.",
+    "options": ["Crop", "Rock", "Cloud", "Bridge"],
+    "answer": "Crop"
+  },
+  {
+    "word": "Irrigation",
+    "emoji": "🚿",
+    "meaning": "Supplying water to crops",
+    "sentence": "Irrigation helps plants grow well.",
+    "options": ["Irrigation", "Pollution", "Traffic", "Culture"],
+    "answer": "Irrigation"
+  },
+  {
+    "word": "Neighbor",
+    "emoji": "🏘️",
+    "meaning": "A person living nearby",
+    "sentence": "Our neighbor helped us yesterday.",
+    "options": ["Neighbor", "Pilot", "Astronaut", "Scientist"],
+    "answer": "Neighbor"
+  },
+  {
+    "word": "Community",
+    "emoji": "🤝",
+    "meaning": "A group of people living together",
+    "sentence": "The community organized a clean-up drive.",
+    "options": ["Community", "Galaxy", "Forest", "Ocean"],
+    "answer": "Community"
+  },
+  {
+    "word": "Volunteer",
+    "emoji": "🙋",
+    "meaning": "A person who helps willingly",
+    "sentence": "A volunteer distributed food to people.",
+    "options": ["Volunteer", "Passenger", "Driver", "Customer"],
+    "answer": "Volunteer"
+  },
+  {
+    "word": "Responsibility",
+    "emoji": "📋",
+    "meaning": "A duty that you should take care of",
+    "sentence": "Keeping my room clean is my responsibility.",
+    "options": ["Responsibility", "Game", "Holiday", "Festival"],
+    "answer": "Responsibility"
+  },
+  {
+    "word": "Friendship",
+    "emoji": "🤗",
+    "meaning": "A close relationship between friends",
+    "sentence": "Friendship makes life happier.",
+    "options": ["Friendship", "Anger", "Fear", "Noise"],
+    "answer": "Friendship"
   }
 ]
