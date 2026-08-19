@@ -407,4 +407,405 @@
     "options": ["Determination", "Laziness", "Fear", "Confusion"],
     "answer": "Determination"
   }
+  
+  {
+    "word": "Adventure",
+    "emoji": "🧗",
+    "meaning": "An exciting experience",
+    "sentence": "Our forest trip was a great adventure.",
+    "options": ["Adventure", "Homework", "Sleep", "Lunch"],
+    "answer": "Adventure"
+  },
+  {
+    "word": "Journey",
+    "emoji": "🚆",
+    "meaning": "Travel from one place to another",
+    "sentence": "The train journey was enjoyable.",
+    "options": ["Journey", "Garden", "Book", "Teacher"],
+    "answer": "Journey"
+  },
+  {
+    "word": "Village",
+    "emoji": "🏡",
+    "meaning": "A small community in the countryside",
+    "sentence": "My grandparents live in a village.",
+    "options": ["Village", "Planet", "Market", "School"],
+    "answer": "Village"
+  },
+  {
+    "word": "City",
+    "emoji": "🏙️",
+    "meaning": "A large town with many people",
+    "sentence": "The city has many tall buildings.",
+    "options": ["City", "Forest", "River", "Farm"],
+    "answer": "City"
+  },
+  {
+    "word": "Farmer",
+    "emoji": "👨‍🌾",
+    "meaning": "A person who grows crops",
+    "sentence": "The farmer works in the fields.",
+    "options": ["Farmer", "Pilot", "Doctor", "Teacher"],
+    "answer": "Farmer"
+  },
+  {
+    "word": "Doctor",
+    "emoji": "🩺",
+    "meaning": "A person who treats sick people",
+    "sentence": "The doctor gave me medicine.",
+    "options": ["Doctor", "Driver", "Painter", "Chef"],
+    "answer": "Doctor"
+  },
+  {
+    "word": "Police",
+    "emoji": "👮",
+    "meaning": "A person who helps keep people safe",
+    "sentence": "The police officer helped us cross the road.",
+    "options": ["Police", "Farmer", "Singer", "Tailor"],
+    "answer": "Police"
+  },
+  {
+    "word": "Pilot",
+    "emoji": "✈️",
+    "meaning": "A person who flies an airplane",
+    "sentence": "The pilot flew the aircraft safely.",
+    "options": ["Pilot", "Teacher", "Doctor", "Driver"],
+    "answer": "Pilot"
+  },
+  {
+    "word": "Airport",
+    "emoji": "🛫",
+    "meaning": "A place where airplanes arrive and depart",
+    "sentence": "We reached the airport early.",
+    "options": ["Airport", "Library", "Garden", "School"],
+    "answer": "Airport"
+  },
+  {
+    "word": "Ticket",
+    "emoji": "🎫",
+    "meaning": "A pass that allows travel or entry",
+    "sentence": "Keep your train ticket safely.",
+    "options": ["Ticket", "Bottle", "Notebook", "Pencil"],
+    "answer": "Ticket"
+  },
+  {
+    "word": "Cloud",
+    "emoji": "☁️",
+    "meaning": "A mass of water droplets in the sky",
+    "sentence": "Dark clouds covered the sky.",
+    "options": ["Cloud", "Stone", "Road", "Tree"],
+    "answer": "Cloud"
+  },
+  {
+    "word": "Storm",
+    "emoji": "⛈️",
+    "meaning": "Bad weather with strong wind and rain",
+    "sentence": "The storm lasted all night.",
+    "options": ["Storm", "Rainbow", "Flower", "Garden"],
+    "answer": "Storm"
+  },
+  {
+    "word": "Wind",
+    "emoji": "💨",
+    "meaning": "Moving air",
+    "sentence": "The wind blew the leaves away.",
+    "options": ["Wind", "Rock", "Soil", "Seed"],
+    "answer": "Wind"
+  },
+  {
+    "word": "Desert",
+    "emoji": "🏜️",
+    "meaning": "A very dry area with little rain",
+    "sentence": "Camels can survive in the desert.",
+    "options": ["Desert", "Forest", "Ocean", "River"],
+    "answer": "Desert"
+  },
+  {
+    "word": "Ocean",
+    "emoji": "🌊",
+    "meaning": "A very large body of salt water",
+    "sentence": "Many fish live in the ocean.",
+    "options": ["Ocean", "Garden", "Road", "Hill"],
+    "answer": "Ocean"
+  },
+  {
+    "word": "Valley",
+    "emoji": "🏞️",
+    "meaning": "Low land between hills or mountains",
+    "sentence": "The valley looked beautiful in spring.",
+    "options": ["Valley", "Cloud", "School", "Market"],
+    "answer": "Valley"
+  },
+  {
+    "word": "Seed",
+    "emoji": "🌱",
+    "meaning": "A small part of a plant that can grow",
+    "sentence": "I planted a seed in the garden.",
+    "options": ["Seed", "Leaf", "Flower", "Branch"],
+    "answer": "Seed"
+  },
+  {
+    "word": "Leaf",
+    "emoji": "🍃",
+    "meaning": "The flat green part of a plant",
+    "sentence": "A leaf fell from the tree.",
+    "options": ["Leaf", "Root", "Seed", "Fruit"],
+    "answer": "Leaf"
+  },
+  {
+    "word": "Soil",
+    "emoji": "🟫",
+    "meaning": "The top layer of earth where plants grow",
+    "sentence": "Plants need good soil to grow.",
+    "options": ["Soil", "Cloud", "Water", "Stone"],
+    "answer": "Soil"
+  },
+  {
+    "word": "Rock",
+    "emoji": "🪨",
+    "meaning": "A hard natural substance",
+    "sentence": "The rock was very heavy.",
+    "options": ["Rock", "Leaf", "Flower", "Fruit"],
+    "answer": "Rock"
+  },
+  {
+    "word": "Monkey",
+    "emoji": "🐒",
+    "meaning": "An animal that climbs trees",
+    "sentence": "The monkey jumped from branch to branch.",
+    "options": ["Monkey", "Tiger", "Cow", "Horse"],
+    "answer": "Monkey"
+  },
+  {
+    "word": "Horse",
+    "emoji": "🐴",
+    "meaning": "An animal used for riding",
+    "sentence": "The horse ran across the field.",
+    "options": ["Horse", "Rabbit", "Cat", "Dog"],
+    "answer": "Horse"
+  },
+  {
+    "word": "Goat",
+    "emoji": "🐐",
+    "meaning": "A farm animal with horns",
+    "sentence": "The goat ate grass happily.",
+    "options": ["Goat", "Tiger", "Lion", "Elephant"],
+    "answer": "Goat"
+  },
+  {
+    "word": "Deer",
+    "emoji": "🦌",
+    "meaning": "A gentle wild animal",
+    "sentence": "We saw a deer in the forest.",
+    "options": ["Deer", "Cow", "Dog", "Horse"],
+    "answer": "Deer"
+  },
+  {
+    "word": "Camel",
+    "emoji": "🐪",
+    "meaning": "An animal that lives in deserts",
+    "sentence": "The camel carried goods across the desert.",
+    "options": ["Camel", "Rabbit", "Tiger", "Monkey"],
+    "answer": "Camel"
+  },
+  {
+    "word": "Panda",
+    "emoji": "🐼",
+    "meaning": "A black and white bear",
+    "sentence": "The panda loves eating bamboo.",
+    "options": ["Panda", "Lion", "Horse", "Dog"],
+    "answer": "Panda"
+  },
+  {
+    "word": "Parrot",
+    "emoji": "🦜",
+    "meaning": "A colorful bird that can mimic sounds",
+    "sentence": "The parrot repeated my words.",
+    "options": ["Parrot", "Crow", "Duck", "Hen"],
+    "answer": "Parrot"
+  },
+  {
+    "word": "Crow",
+    "emoji": "🐦",
+    "meaning": "A black bird",
+    "sentence": "A crow sat on the wall.",
+    "options": ["Crow", "Parrot", "Peacock", "Sparrow"],
+    "answer": "Crow"
+  },
+  {
+    "word": "Peacock",
+    "emoji": "🦚",
+    "meaning": "A bird with colorful feathers",
+    "sentence": "The peacock danced in the rain.",
+    "options": ["Peacock", "Crow", "Duck", "Hen"],
+    "answer": "Peacock"
+  },
+  {
+    "word": "Sparrow",
+    "emoji": "🐤",
+    "meaning": "A small common bird",
+    "sentence": "A sparrow built a nest near our house.",
+    "options": ["Sparrow", "Tiger", "Fish", "Rabbit"],
+    "answer": "Sparrow"
+  },
+  {
+    "word": "Lunch",
+    "emoji": "🍛",
+    "meaning": "The meal eaten in the afternoon",
+    "sentence": "I ate rice and vegetables for lunch.",
+    "options": ["Lunch", "Breakfast", "Dinner", "Snack"],
+    "answer": "Lunch"
+  },
+  {
+    "word": "Dinner",
+    "emoji": "🍲",
+    "meaning": "The evening meal",
+    "sentence": "We had dinner together.",
+    "options": ["Dinner", "Lunch", "Breakfast", "Juice"],
+    "answer": "Dinner"
+  },
+  {
+    "word": "Medicine",
+    "emoji": "💊",
+    "meaning": "Something used to treat illness",
+    "sentence": "Take your medicine on time.",
+    "options": ["Medicine", "Notebook", "Toy", "Bottle"],
+    "answer": "Medicine"
+  },
+  {
+    "word": "Hospital",
+    "emoji": "🏥",
+    "meaning": "A place where sick people are treated",
+    "sentence": "The patient was taken to the hospital.",
+    "options": ["Hospital", "School", "Library", "Garden"],
+    "answer": "Hospital"
+  },
+  {
+    "word": "Energy",
+    "emoji": "⚡",
+    "meaning": "The strength to do work and activities",
+    "sentence": "Healthy food gives us energy.",
+    "options": ["Energy", "Sleep", "Fear", "Rain"],
+    "answer": "Energy"
+  },
+  {
+    "word": "Keyboard",
+    "emoji": "⌨️",
+    "meaning": "A device used to type on a computer",
+    "sentence": "I typed my name using the keyboard.",
+    "options": ["Keyboard", "Mouse", "Screen", "Printer"],
+    "answer": "Keyboard"
+  },
+  {
+    "word": "Mouse",
+    "emoji": "🖱️",
+    "meaning": "A device used to control a computer",
+    "sentence": "Click the icon with the mouse.",
+    "options": ["Mouse", "Keyboard", "Printer", "Camera"],
+    "answer": "Mouse"
+  },
+  {
+    "word": "Screen",
+    "emoji": "🖥️",
+    "meaning": "The display part of a computer",
+    "sentence": "The picture appeared on the screen.",
+    "options": ["Screen", "Keyboard", "Book", "Desk"],
+    "answer": "Screen"
+  },
+  {
+    "word": "Camera",
+    "emoji": "📷",
+    "meaning": "A device used to take photographs",
+    "sentence": "My father used a camera to take pictures.",
+    "options": ["Camera", "Printer", "Bag", "Bottle"],
+    "answer": "Camera"
+  },
+  {
+    "word": "Printer",
+    "emoji": "🖨️",
+    "meaning": "A machine that prints documents",
+    "sentence": "The printer printed my project.",
+    "options": ["Printer", "Monitor", "Keyboard", "Book"],
+    "answer": "Printer"
+  },
+  {
+    "word": "Discipline",
+    "emoji": "📏",
+    "meaning": "Following rules and behaving properly",
+    "sentence": "Discipline is important in school.",
+    "options": ["Discipline", "Noise", "Carelessness", "Mess"],
+    "answer": "Discipline"
+  },
+  {
+    "word": "Gratitude",
+    "emoji": "🙏",
+    "meaning": "Feeling thankful",
+    "sentence": "She expressed gratitude for the help.",
+    "options": ["Gratitude", "Anger", "Fear", "Pride"],
+    "answer": "Gratitude"
+  },
+  {
+    "word": "Leadership",
+    "emoji": "👑",
+    "meaning": "Guiding and helping others",
+    "sentence": "Her leadership inspired the team.",
+    "options": ["Leadership", "Laziness", "Silence", "Confusion"],
+    "answer": "Leadership"
+  },
+  {
+    "word": "Cooperation",
+    "emoji": "🤲",
+    "meaning": "Working together for a common goal",
+    "sentence": "The project succeeded because of cooperation.",
+    "options": ["Cooperation", "Fighting", "Ignoring", "Sleeping"],
+    "answer": "Cooperation"
+  },
+  {
+    "word": "Wisdom",
+    "emoji": "🦉",
+    "meaning": "Good judgment and knowledge",
+    "sentence": "The old man shared his wisdom.",
+    "options": ["Wisdom", "Fear", "Noise", "Anger"],
+    "answer": "Wisdom"
+  },
+  {
+    "word": "Clock",
+    "emoji": "🕒",
+    "meaning": "A device that shows time",
+    "sentence": "The clock showed ten o'clock.",
+    "options": ["Clock", "Calendar", "Map", "Road"],
+    "answer": "Clock"
+  },
+  {
+    "word": "House",
+    "emoji": "🏠",
+    "meaning": "A building where people live",
+    "sentence": "Their house has a beautiful garden.",
+    "options": ["House", "School", "Hospital", "Market"],
+    "answer": "House"
+  },
+  {
+    "word": "Kitchen",
+    "emoji": "🍳",
+    "meaning": "A room where food is prepared",
+    "sentence": "Mother is cooking in the kitchen.",
+    "options": ["Kitchen", "Bedroom", "Library", "Office"],
+    "answer": "Kitchen"
+  },
+  {
+    "word": "Bedroom",
+    "emoji": "🛏️",
+    "meaning": "A room used for sleeping",
+    "sentence": "My bedroom is neat and clean.",
+    "options": ["Bedroom", "Kitchen", "Garden", "Garage"],
+    "answer": "Bedroom"
+  },
+  {
+    "word": "Door",
+    "emoji": "🚪",
+    "meaning": "An entrance to a room or building",
+    "sentence": "Please close the door quietly.",
+    "options": ["Door", "Window", "Chair", "Roof"],
+    "answer": "Door"
+  }
 ]
