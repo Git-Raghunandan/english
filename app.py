@@ -293,7 +293,7 @@ if st.session_state.mode is None:
 
     st.markdown(
         '<div class="subtitle">'
-        'Fun English for Kids 🌟'
+        'Fun English for Kids 🌟 By Swarup'
         '</div>',
         unsafe_allow_html=True
     )
