@@ -1207,5 +1207,710 @@
     "sentence": "Friendship makes life happier.",
     "options": ["Friendship", "Anger", "Fear", "Noise"],
     "answer": "Friendship"
+  },
+  {
+    "word": "Achievement",
+    "emoji": "🏅",
+    "meaning": "Something done successfully through effort",
+    "sentence": "Winning the quiz was a great achievement.",
+    "options": ["Achievement", "Failure", "Mistake", "Problem"],
+    "answer": "Achievement"
+  },
+  {
+    "word": "Success",
+    "emoji": "🏆",
+    "meaning": "Reaching a goal",
+    "sentence": "Hard work often leads to success.",
+    "options": ["Success", "Failure", "Fear", "Confusion"],
+    "answer": "Success"
+  },
+  {
+    "word": "Goal",
+    "emoji": "🎯",
+    "meaning": "Something you want to achieve",
+    "sentence": "My goal is to become a scientist.",
+    "options": ["Goal", "Toy", "Ticket", "Bottle"],
+    "answer": "Goal"
+  },
+  {
+    "word": "Practice",
+    "emoji": "⚽",
+    "meaning": "Doing something repeatedly to improve",
+    "sentence": "Practice helps us learn faster.",
+    "options": ["Practice", "Rest", "Forget", "Ignore"],
+    "answer": "Practice"
+  },
+  {
+    "word": "Talent",
+    "emoji": "🎭",
+    "meaning": "A natural ability to do something well",
+    "sentence": "She has a talent for singing.",
+    "options": ["Talent", "Fear", "Noise", "Luck"],
+    "answer": "Talent"
+  },
+  {
+    "word": "Skill",
+    "emoji": "🛠️",
+    "meaning": "An ability learned through practice",
+    "sentence": "Coding is a useful skill.",
+    "options": ["Skill", "Problem", "Weather", "Garden"],
+    "answer": "Skill"
+  },
+  {
+    "word": "Knowledge",
+    "emoji": "📖",
+    "meaning": "Information and understanding gained through learning",
+    "sentence": "Reading books increases knowledge.",
+    "options": ["Knowledge", "Confusion", "Silence", "Sleep"],
+    "answer": "Knowledge"
+  },
+  {
+    "word": "Education",
+    "emoji": "🎓",
+    "meaning": "The process of learning",
+    "sentence": "Education helps people build a better future.",
+    "options": ["Education", "Vacation", "Journey", "Festival"],
+    "answer": "Education"
+  },
+  {
+    "word": "Student",
+    "emoji": "👦",
+    "meaning": "A person who learns in school",
+    "sentence": "Every student completed the assignment.",
+    "options": ["Student", "Teacher", "Doctor", "Farmer"],
+    "answer": "Student"
+  },
+  {
+    "word": "Classroom",
+    "emoji": "🏫",
+    "meaning": "A room where students learn",
+    "sentence": "The classroom was clean and bright.",
+    "options": ["Classroom", "Kitchen", "Garden", "Airport"],
+    "answer": "Classroom"
+  },
+  {
+    "word": "Homework",
+    "emoji": "📝",
+    "meaning": "School work done at home",
+    "sentence": "I completed my homework before dinner.",
+    "options": ["Homework", "Breakfast", "Holiday", "Journey"],
+    "answer": "Homework"
+  },
+  {
+    "word": "Lesson",
+    "emoji": "📚",
+    "meaning": "Something taught in class",
+    "sentence": "Today's lesson was very interesting.",
+    "options": ["Lesson", "Ticket", "Bridge", "Cloud"],
+    "answer": "Lesson"
+  },
+  {
+    "word": "Project",
+    "emoji": "📋",
+    "meaning": "A task that requires planning and work",
+    "sentence": "We made a science project together.",
+    "options": ["Project", "Toy", "Bottle", "Vehicle"],
+    "answer": "Project"
+  },
+  {
+    "word": "Question",
+    "emoji": "❓",
+    "meaning": "Something asked to get information",
+    "sentence": "The teacher asked a question.",
+    "options": ["Question", "Answer", "Story", "Picture"],
+    "answer": "Question"
+  },
+  {
+    "word": "Answer",
+    "emoji": "✅",
+    "meaning": "A reply to a question",
+    "sentence": "Ravi gave the correct answer.",
+    "options": ["Answer", "Question", "Problem", "Lesson"],
+    "answer": "Answer"
+  },
+  {
+    "word": "Exam",
+    "emoji": "📄",
+    "meaning": "A test of knowledge",
+    "sentence": "She prepared well for the exam.",
+    "options": ["Exam", "Game", "Festival", "Journey"],
+    "answer": "Exam"
+  },
+  {
+    "word": "Memory",
+    "emoji": "🧠",
+    "meaning": "The ability to remember things",
+    "sentence": "Good sleep improves memory.",
+    "options": ["Memory", "Cloud", "Traffic", "Bridge"],
+    "answer": "Memory"
+  },
+  {
+    "word": "Focus",
+    "emoji": "🎯",
+    "meaning": "Paying full attention",
+    "sentence": "Focus helps us complete work quickly.",
+    "options": ["Focus", "Distraction", "Noise", "Confusion"],
+    "answer": "Focus"
+  },
+  {
+    "word": "Imagination",
+    "emoji": "🌈",
+    "meaning": "The ability to create ideas in the mind",
+    "sentence": "Her imagination helped her write a story.",
+    "options": ["Imagination", "Memory", "Traffic", "Pollution"],
+    "answer": "Imagination"
+  },
+  {
+    "word": "Story",
+    "emoji": "📖",
+    "meaning": "A tale about people or events",
+    "sentence": "Grandmother told us a story.",
+    "options": ["Story", "Bridge", "Battery", "Map"],
+    "answer": "Story"
+  },
+  {
+    "word": "Poem",
+    "emoji": "📝",
+    "meaning": "A piece of writing with rhythm",
+    "sentence": "The student recited a poem.",
+    "options": ["Poem", "Vehicle", "Airport", "Forest"],
+    "answer": "Poem"
+  },
+  {
+    "word": "Author",
+    "emoji": "✍️",
+    "meaning": "A person who writes books",
+    "sentence": "The author wrote many stories.",
+    "options": ["Author", "Pilot", "Doctor", "Driver"],
+    "answer": "Author"
+  },
+  {
+    "word": "Picture",
+    "emoji": "🖼️",
+    "meaning": "An image or drawing",
+    "sentence": "The picture showed a beautiful village.",
+    "options": ["Picture", "Cloud", "Desk", "Bottle"],
+    "answer": "Picture"
+  },
+  {
+    "word": "Drawing",
+    "emoji": "🎨",
+    "meaning": "A picture made with pencils or colors",
+    "sentence": "Her drawing won first prize.",
+    "options": ["Drawing", "Journey", "Traffic", "Battery"],
+    "answer": "Drawing"
+  },
+  {
+    "word": "Music",
+    "emoji": "🎵",
+    "meaning": "Pleasant sounds arranged together",
+    "sentence": "I enjoy listening to music.",
+    "options": ["Music", "Garden", "Lesson", "Homework"],
+    "answer": "Music"
+  },
+  {
+    "word": "Dance",
+    "emoji": "💃",
+    "meaning": "Moving the body to music",
+    "sentence": "The children performed a dance.",
+    "options": ["Dance", "Sleep", "Read", "Write"],
+    "answer": "Dance"
+  },
+  {
+    "word": "Game",
+    "emoji": "🎮",
+    "meaning": "An activity played for fun",
+    "sentence": "We played a game after school.",
+    "options": ["Game", "Lesson", "Exam", "Project"],
+    "answer": "Game"
+  },
+  {
+    "word": "Champion",
+    "emoji": "🥇",
+    "meaning": "A winner of a competition",
+    "sentence": "She became the chess champion.",
+    "options": ["Champion", "Student", "Passenger", "Customer"],
+    "answer": "Champion"
+  },
+  {
+    "word": "Team",
+    "emoji": "👥",
+    "meaning": "A group working together",
+    "sentence": "Our team won the match.",
+    "options": ["Team", "Forest", "Galaxy", "Bridge"],
+    "answer": "Team"
+  },
+  {
+    "word": "Captain",
+    "emoji": "🧢",
+    "meaning": "The leader of a team",
+    "sentence": "The captain encouraged everyone.",
+    "options": ["Captain", "Doctor", "Farmer", "Scientist"],
+    "answer": "Captain"
+  },
+  {
+    "word": "Adventure",
+    "emoji": "🧗",
+    "meaning": "An exciting experience",
+    "sentence": "Camping was a wonderful adventure.",
+    "options": ["Adventure", "Homework", "Exam", "Project"],
+    "answer": "Adventure"
+  },
+  {
+    "word": "Vacation",
+    "emoji": "🏖️",
+    "meaning": "A period of rest from school",
+    "sentence": "We visited Goa during vacation.",
+    "options": ["Vacation", "Lesson", "Exam", "Project"],
+    "answer": "Vacation"
+  },
+  {
+    "word": "Beach",
+    "emoji": "🏝️",
+    "meaning": "A sandy area near the sea",
+    "sentence": "The children played on the beach.",
+    "options": ["Beach", "Mountain", "Forest", "Station"],
+    "answer": "Beach"
+  },
+  {
+    "word": "Island",
+    "emoji": "🏝️",
+    "meaning": "Land surrounded by water",
+    "sentence": "The island was surrounded by blue water.",
+    "options": ["Island", "Bridge", "Road", "Market"],
+    "answer": "Island"
+  },
+  {
+    "word": "Treasure",
+    "emoji": "💎",
+    "meaning": "Something valuable",
+    "sentence": "The pirates searched for treasure.",
+    "options": ["Treasure", "Homework", "Traffic", "Pollution"],
+    "answer": "Treasure"
+  },
+  {
+    "word": "Diamond",
+    "emoji": "💍",
+    "meaning": "A precious stone",
+    "sentence": "The diamond sparkled brightly.",
+    "options": ["Diamond", "Rock", "Leaf", "Seed"],
+    "answer": "Diamond"
+  },
+  {
+    "word": "Gold",
+    "emoji": "🥇",
+    "meaning": "A valuable yellow metal",
+    "sentence": "She won a gold medal.",
+    "options": ["Gold", "Wood", "Paper", "Plastic"],
+    "answer": "Gold"
+  },
+  {
+    "word": "Customer",
+    "emoji": "🛍️",
+    "meaning": "A person who buys goods",
+    "sentence": "The customer paid for the fruits.",
+    "options": ["Customer", "Teacher", "Pilot", "Farmer"],
+    "answer": "Customer"
+  },
+  {
+    "word": "Shopkeeper",
+    "emoji": "🏪",
+    "meaning": "A person who owns or manages a shop",
+    "sentence": "The shopkeeper greeted us warmly.",
+    "options": ["Shopkeeper", "Doctor", "Scientist", "Astronaut"],
+    "answer": "Shopkeeper"
+  },
+  {
+    "word": "Receipt",
+    "emoji": "🧾",
+    "meaning": "A paper showing proof of payment",
+    "sentence": "Keep the receipt after shopping.",
+    "options": ["Receipt", "Map", "Picture", "Poem"],
+    "answer": "Receipt"
+  },
+  {
+    "word": "Savings",
+    "emoji": "💰",
+    "meaning": "Money kept for future use",
+    "sentence": "She put her pocket money into savings.",
+    "options": ["Savings", "Traffic", "Pollution", "Homework"],
+    "answer": "Savings"
+  },
+  {
+    "word": "Bank",
+    "emoji": "🏦",
+    "meaning": "A place where money is kept safely",
+    "sentence": "My father visited the bank.",
+    "options": ["Bank", "School", "Library", "Museum"],
+    "answer": "Bank"
+  },
+  {
+    "word": "Currency",
+    "emoji": "💵",
+    "meaning": "Money used in a country",
+    "sentence": "The rupee is India's currency.",
+    "options": ["Currency", "Bridge", "Battery", "Cloud"],
+    "answer": "Currency"
+  },
+  {
+    "word": "Future",
+    "emoji": "🔮",
+    "meaning": "The time that is yet to come",
+    "sentence": "Education helps build a bright future.",
+    "options": ["Future", "Past", "History", "Memory"],
+    "answer": "Future"
+  },
+  {
+    "word": "Dream",
+    "emoji": "🌟",
+    "meaning": "A strong wish or goal",
+    "sentence": "Her dream is to become a doctor.",
+    "options": ["Dream", "Problem", "Question", "Traffic"],
+    "answer": "Dream"
+  },
+  {
+    "word": "Hope",
+    "emoji": "✨",
+    "meaning": "A feeling that something good will happen",
+    "sentence": "We hope for good weather tomorrow.",
+    "options": ["Hope", "Fear", "Anger", "Noise"],
+    "answer": "Hope"
+  },
+  {
+    "word": "Peace",
+    "emoji": "🕊️",
+    "meaning": "A state of calm and harmony",
+    "sentence": "Everyone wishes to live in peace.",
+    "options": ["Peace", "Conflict", "Noise", "Storm"],
+    "answer": "Peace"
+  },
+  {
+    "word": "Happiness",
+    "emoji": "😊",
+    "meaning": "The feeling of being joyful",
+    "sentence": "Helping others brings happiness.",
+    "options": ["Happiness", "Sadness", "Fear", "Anger"],
+    "answer": "Happiness"
+  },
+  {
+    "word": "Kindness",
+    "emoji": "❤️",
+    "meaning": "Being caring and helpful to others",
+    "sentence": "Her kindness inspired everyone.",
+    "options": ["Kindness", "Rudeness", "Anger", "Greed"],
+    "answer": "Kindness"
+  },
+  {
+    "word": "Respectful",
+    "emoji": "🙏",
+    "meaning": "Showing kindness and good manners to others",
+    "sentence": "The respectful student listened carefully to the teacher.",
+    "options": ["Respectful", "Rude", "Noisy", "Lazy"],
+    "answer": "Respectful"
+  },
+  {
+    "word": "Generous",
+    "emoji": "🎁",
+    "meaning": "Willing to share and help others",
+    "sentence": "The generous girl shared her lunch with her friend.",
+    "options": ["Generous", "Selfish", "Angry", "Silent"],
+    "answer": "Generous"
+  },
+  {
+    "word": "Loyal",
+    "emoji": "🤝",
+    "meaning": "Always supporting and staying true",
+    "sentence": "A loyal friend stands by you in difficult times.",
+    "options": ["Loyal", "Dishonest", "Careless", "Fearful"],
+    "answer": "Loyal"
+  },
+  {
+    "word": "Fair",
+    "emoji": "⚖️",
+    "meaning": "Treating everyone equally",
+    "sentence": "The referee made a fair decision.",
+    "options": ["Fair", "Unfair", "Angry", "Careless"],
+    "answer": "Fair"
+  },
+  {
+    "word": "Trust",
+    "emoji": "🔒",
+    "meaning": "Believing someone is honest and reliable",
+    "sentence": "Trust is important in friendship.",
+    "options": ["Trust", "Fear", "Doubt", "Anger"],
+    "answer": "Trust"
+  },
+  {
+    "word": "Careful",
+    "emoji": "👀",
+    "meaning": "Paying attention to avoid mistakes",
+    "sentence": "Be careful while crossing the road.",
+    "options": ["Careful", "Careless", "Noisy", "Lazy"],
+    "answer": "Careful"
+  },
+  {
+    "word": "Careless",
+    "emoji": "😕",
+    "meaning": "Not paying enough attention",
+    "sentence": "A careless mistake spoiled the answer.",
+    "options": ["Careless", "Careful", "Wise", "Brave"],
+    "answer": "Careless"
+  },
+  {
+    "word": "Wise",
+    "emoji": "🦉",
+    "meaning": "Having good judgment and knowledge",
+    "sentence": "The wise teacher gave useful advice.",
+    "options": ["Wise", "Foolish", "Noisy", "Angry"],
+    "answer": "Wise"
+  },
+  {
+    "word": "Foolish",
+    "emoji": "🤦",
+    "meaning": "Showing poor judgment",
+    "sentence": "It was foolish to ignore the warning.",
+    "options": ["Foolish", "Wise", "Careful", "Helpful"],
+    "answer": "Foolish"
+  },
+  {
+    "word": "Responsible",
+    "emoji": "📋",
+    "meaning": "Taking care of duties properly",
+    "sentence": "She is responsible for watering the plants.",
+    "options": ["Responsible", "Careless", "Lazy", "Rude"],
+    "answer": "Responsible"
+  },
+  {
+    "word": "Lazy",
+    "emoji": "😴",
+    "meaning": "Not willing to work or make effort",
+    "sentence": "The lazy boy delayed his homework.",
+    "options": ["Lazy", "Active", "Helpful", "Careful"],
+    "answer": "Lazy"
+  },
+  {
+    "word": "Active",
+    "emoji": "🏃",
+    "meaning": "Always busy and energetic",
+    "sentence": "She is active in sports and studies.",
+    "options": ["Active", "Lazy", "Sleepy", "Silent"],
+    "answer": "Active"
+  },
+  {
+    "word": "Healthy",
+    "emoji": "🥗",
+    "meaning": "Strong and free from illness",
+    "sentence": "Eating vegetables keeps us healthy.",
+    "options": ["Healthy", "Sick", "Weak", "Tired"],
+    "answer": "Healthy"
+  },
+  {
+    "word": "Sick",
+    "emoji": "🤒",
+    "meaning": "Not feeling well",
+    "sentence": "The sick child stayed at home.",
+    "options": ["Sick", "Healthy", "Strong", "Happy"],
+    "answer": "Sick"
+  },
+  {
+    "word": "Strong",
+    "emoji": "💪",
+    "meaning": "Having great physical power",
+    "sentence": "The strong athlete lifted the weight.",
+    "options": ["Strong", "Weak", "Small", "Slow"],
+    "answer": "Strong"
+  },
+  {
+    "word": "Weak",
+    "emoji": "😓",
+    "meaning": "Not physically strong",
+    "sentence": "I felt weak after the illness.",
+    "options": ["Weak", "Strong", "Healthy", "Fast"],
+    "answer": "Weak"
+  },
+  {
+    "word": "Bright",
+    "emoji": "💡",
+    "meaning": "Giving a lot of light or very intelligent",
+    "sentence": "The bright student solved the puzzle quickly.",
+    "options": ["Bright", "Dark", "Dull", "Slow"],
+    "answer": "Bright"
+  },
+  {
+    "word": "Dark",
+    "emoji": "🌑",
+    "meaning": "Having little or no light",
+    "sentence": "The room became dark at night.",
+    "options": ["Dark", "Bright", "Shiny", "Clear"],
+    "answer": "Dark"
+  },
+  {
+    "word": "Shiny",
+    "emoji": "✨",
+    "meaning": "Reflecting light brightly",
+    "sentence": "The shiny coin sparkled in the sun.",
+    "options": ["Shiny", "Dirty", "Broken", "Rough"],
+    "answer": "Shiny"
+  },
+  {
+    "word": "Rough",
+    "emoji": "🪵",
+    "meaning": "Not smooth",
+    "sentence": "The rough stone hurt my hand.",
+    "options": ["Rough", "Smooth", "Soft", "Clean"],
+    "answer": "Rough"
+  },
+  {
+    "word": "Smooth",
+    "emoji": "🧈",
+    "meaning": "Even and not rough",
+    "sentence": "The table had a smooth surface.",
+    "options": ["Smooth", "Rough", "Dirty", "Broken"],
+    "answer": "Smooth"
+  },
+  {
+    "word": "Heavy",
+    "emoji": "🏋️",
+    "meaning": "Having a lot of weight",
+    "sentence": "The bag was too heavy to carry.",
+    "options": ["Heavy", "Light", "Small", "Short"],
+    "answer": "Heavy"
+  },
+  {
+    "word": "Light",
+    "emoji": "🪶",
+    "meaning": "Not heavy",
+    "sentence": "The feather is very light.",
+    "options": ["Light", "Heavy", "Large", "Tall"],
+    "answer": "Light"
+  },
+  {
+    "word": "Tall",
+    "emoji": "🦒",
+    "meaning": "Having great height",
+    "sentence": "The giraffe is a tall animal.",
+    "options": ["Tall", "Short", "Tiny", "Wide"],
+    "answer": "Tall"
+  },
+  {
+    "word": "Short",
+    "emoji": "📏",
+    "meaning": "Not tall or long",
+    "sentence": "The short boy stood in the front row.",
+    "options": ["Short", "Tall", "Long", "Large"],
+    "answer": "Short"
+  },
+  {
+    "word": "Long",
+    "emoji": "📐",
+    "meaning": "Having great length",
+    "sentence": "The road is very long.",
+    "options": ["Long", "Short", "Tiny", "Wide"],
+    "answer": "Long"
+  },
+  {
+    "word": "Wide",
+    "emoji": "↔️",
+    "meaning": "Having a large distance from side to side",
+    "sentence": "The river is very wide.",
+    "options": ["Wide", "Narrow", "Short", "Tiny"],
+    "answer": "Wide"
+  },
+  {
+    "word": "Narrow",
+    "emoji": "🛣️",
+    "meaning": "Not wide",
+    "sentence": "The narrow path led to the village.",
+    "options": ["Narrow", "Wide", "Large", "Long"],
+    "answer": "Narrow"
+  },
+  {
+    "word": "Tiny",
+    "emoji": "🐜",
+    "meaning": "Very small",
+    "sentence": "The ant is a tiny insect.",
+    "options": ["Tiny", "Huge", "Large", "Tall"],
+    "answer": "Tiny"
+  },
+  {
+    "word": "Huge",
+    "emoji": "🏰",
+    "meaning": "Very large",
+    "sentence": "The castle looked huge from a distance.",
+    "options": ["Huge", "Tiny", "Small", "Short"],
+    "answer": "Huge"
+  },
+  {
+    "word": "Quiet",
+    "emoji": "🤫",
+    "meaning": "Making very little noise",
+    "sentence": "The library is a quiet place.",
+    "options": ["Quiet", "Loud", "Noisy", "Busy"],
+    "answer": "Quiet"
+  },
+  {
+    "word": "Loud",
+    "emoji": "📢",
+    "meaning": "Making a lot of noise",
+    "sentence": "The loud music could be heard outside.",
+    "options": ["Loud", "Quiet", "Silent", "Soft"],
+    "answer": "Loud"
+  },
+  {
+    "word": "Silent",
+    "emoji": "🤐",
+    "meaning": "Completely quiet",
+    "sentence": "The classroom became silent during the test.",
+    "options": ["Silent", "Noisy", "Loud", "Busy"],
+    "answer": "Silent"
+  },
+  {
+    "word": "Busy",
+    "emoji": "📚",
+    "meaning": "Having a lot to do",
+    "sentence": "Mother was busy preparing dinner.",
+    "options": ["Busy", "Idle", "Lazy", "Silent"],
+    "answer": "Busy"
+  },
+  {
+    "word": "Friendly",
+    "emoji": "😊",
+    "meaning": "Kind and pleasant to others",
+    "sentence": "The friendly neighbor greeted us warmly.",
+    "options": ["Friendly", "Rude", "Angry", "Mean"],
+    "answer": "Friendly"
+  },
+  {
+    "word": "Rude",
+    "emoji": "😠",
+    "meaning": "Not polite",
+    "sentence": "It is rude to interrupt others.",
+    "options": ["Rude", "Polite", "Kind", "Helpful"],
+    "answer": "Rude"
+  },
+  {
+    "word": "Patient",
+    "emoji": "⏳",
+    "meaning": "Able to wait calmly",
+    "sentence": "Be patient while waiting for your turn.",
+    "options": ["Patient", "Impatient", "Angry", "Careless"],
+    "answer": "Patient"
+  },
+  {
+    "word": "Impatient",
+    "emoji": "😣",
+    "meaning": "Unable to wait calmly",
+    "sentence": "The impatient child wanted the toy immediately.",
+    "options": ["Impatient", "Patient", "Calm", "Kind"],
+    "answer": "Impatient"
+  },
+  {
+    "word": "Calm",
+    "emoji": "😌",
+    "meaning": "Peaceful and relaxed",
+    "sentence": "She remained calm during the storm.",
+    "options": ["Calm", "Nervous", "Angry", "Loud"],
+    "answer": "Calm"
   }
+
 ]
