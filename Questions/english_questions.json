@@ -1,309 +1,67 @@
-
-```json
 [
-  {
-    "word": "Happy",
-    "emoji": "😊",
-    "meaning": "Feeling good and joyful",
-    "sentence": "I am happy today.",
-    "options": ["Happy", "Sad", "Angry", "Tired"],
-    "answer": "Happy"
-  },
-  {
-    "word": "Sad",
-    "emoji": "😢",
-    "meaning": "Feeling unhappy",
-    "sentence": "She felt sad when it rained.",
-    "options": ["Happy", "Sad", "Excited", "Proud"],
-    "answer": "Sad"
-  },
   {
     "word": "Excited",
     "emoji": "🎉",
-    "meaning": "Very happy and eager",
-    "sentence": "I am excited about the picnic.",
-    "options": ["Excited", "Tired", "Angry", "Quiet"],
+    "meaning": "Feeling very happy and eager",
+    "sentence": "I am excited about the school trip.",
+    "options": ["Excited", "Sad", "Angry", "Tired"],
     "answer": "Excited"
   },
   {
     "word": "Brave",
     "emoji": "🦁",
-    "meaning": "Showing courage",
-    "sentence": "The brave boy helped his friend.",
-    "options": ["Scared", "Brave", "Weak", "Lazy"],
+    "meaning": "Showing courage and not afraid",
+    "sentence": "The brave firefighter saved the family.",
+    "options": ["Brave", "Scared", "Lazy", "Weak"],
     "answer": "Brave"
   },
   {
-    "word": "Kind",
-    "emoji": "❤️",
-    "meaning": "Being good and helpful",
-    "sentence": "My teacher is kind to everyone.",
-    "options": ["Rude", "Kind", "Angry", "Mean"],
-    "answer": "Kind"
+    "word": "Curious",
+    "emoji": "🤔",
+    "meaning": "Wanting to know or learn something",
+    "sentence": "The curious child asked many questions.",
+    "options": ["Curious", "Silent", "Angry", "Sleepy"],
+    "answer": "Curious"
   },
   {
     "word": "Honest",
     "emoji": "🤝",
     "meaning": "Always telling the truth",
-    "sentence": "An honest child speaks the truth.",
-    "options": ["Honest", "Dishonest", "Lazy", "Rude"],
+    "sentence": "Riya is honest with her friends.",
+    "options": ["Dishonest", "Honest", "Careless", "Lazy"],
     "answer": "Honest"
-  },
-  {
-    "word": "Friendly",
-    "emoji": "😊",
-    "meaning": "Kind and pleasant to others",
-    "sentence": "Our new neighbor is friendly.",
-    "options": ["Friendly", "Angry", "Quiet", "Rude"],
-    "answer": "Friendly"
   },
   {
     "word": "Helpful",
     "emoji": "🙋",
     "meaning": "Ready to help others",
-    "sentence": "My helpful sister carried my bag.",
-    "options": ["Helpful", "Lazy", "Rude", "Mean"],
+    "sentence": "My helpful brother carried my bag.",
+    "options": ["Helpful", "Rude", "Angry", "Silent"],
     "answer": "Helpful"
-  },
-  {
-    "word": "Proud",
-    "emoji": "🏆",
-    "meaning": "Feeling pleased about success",
-    "sentence": "I felt proud after winning the race.",
-    "options": ["Proud", "Sad", "Angry", "Afraid"],
-    "answer": "Proud"
-  },
-  {
-    "word": "Calm",
-    "emoji": "🧘",
-    "meaning": "Peaceful and relaxed",
-    "sentence": "The lake looked calm in the morning.",
-    "options": ["Calm", "Loud", "Fast", "Angry"],
-    "answer": "Calm"
-  },
-  {
-    "word": "Run",
-    "emoji": "🏃",
-    "meaning": "To move quickly using your legs",
-    "sentence": "I can run very fast.",
-    "options": ["Run", "Sleep", "Eat", "Read"],
-    "answer": "Run"
-  },
-  {
-    "word": "Walk",
-    "emoji": "🚶",
-    "meaning": "To move on foot",
-    "sentence": "We walk to school every day.",
-    "options": ["Jump", "Walk", "Sleep", "Dance"],
-    "answer": "Walk"
-  },
-  {
-    "word": "Jump",
-    "emoji": "🤸",
-    "meaning": "To push yourself off the ground",
-    "sentence": "The rabbit can jump high.",
-    "options": ["Sleep", "Read", "Jump", "Write"],
-    "answer": "Jump"
-  },
-  {
-    "word": "Read",
-    "emoji": "📖",
-    "meaning": "To look at and understand words",
-    "sentence": "I read a story every night.",
-    "options": ["Read", "Eat", "Run", "Sleep"],
-    "answer": "Read"
-  },
-  {
-    "word": "Write",
-    "emoji": "✍️",
-    "meaning": "To form letters and words",
-    "sentence": "Please write your name clearly.",
-    "options": ["Write", "Jump", "Sing", "Sleep"],
-    "answer": "Write"
-  },
-  {
-    "word": "Draw",
-    "emoji": "🎨",
-    "meaning": "To make a picture",
-    "sentence": "I like to draw animals.",
-    "options": ["Draw", "Cook", "Run", "Read"],
-    "answer": "Draw"
-  },
-  {
-    "word": "Sing",
-    "emoji": "🎤",
-    "meaning": "To make musical sounds",
-    "sentence": "The children sing together.",
-    "options": ["Dance", "Sing", "Read", "Sleep"],
-    "answer": "Sing"
-  },
-  {
-    "word": "Dance",
-    "emoji": "💃",
-    "meaning": "To move to music",
-    "sentence": "She loves to dance.",
-    "options": ["Sleep", "Dance", "Read", "Walk"],
-    "answer": "Dance"
-  },
-  {
-    "word": "Listen",
-    "emoji": "👂",
-    "meaning": "To hear carefully",
-    "sentence": "Please listen to the teacher.",
-    "options": ["Listen", "Run", "Jump", "Eat"],
-    "answer": "Listen"
-  },
-  {
-    "word": "Learn",
-    "emoji": "📘",
-    "meaning": "To gain knowledge",
-    "sentence": "Children learn new things at school.",
-    "options": ["Forget", "Learn", "Sleep", "Hide"],
-    "answer": "Learn"
-  },
-  {
-    "word": "School",
-    "emoji": "🏫",
-    "meaning": "A place where children learn",
-    "sentence": "I go to school every day.",
-    "options": ["Park", "School", "Market", "Hospital"],
-    "answer": "School"
   },
   {
     "word": "Teacher",
     "emoji": "👩‍🏫",
     "meaning": "A person who teaches students",
-    "sentence": "My teacher explains lessons clearly.",
-    "options": ["Doctor", "Teacher", "Farmer", "Driver"],
+    "sentence": "My teacher explained the lesson clearly.",
+    "options": ["Doctor", "Teacher", "Driver", "Farmer"],
     "answer": "Teacher"
-  },
-  {
-    "word": "Student",
-    "emoji": "🧑‍🎓",
-    "meaning": "A person who learns",
-    "sentence": "Every student completed the homework.",
-    "options": ["Teacher", "Student", "Doctor", "Pilot"],
-    "answer": "Student"
-  },
-  {
-    "word": "Classroom",
-    "emoji": "🏫",
-    "meaning": "A room where students learn",
-    "sentence": "Our classroom is clean.",
-    "options": ["Kitchen", "Classroom", "Garden", "Market"],
-    "answer": "Classroom"
   },
   {
     "word": "Library",
     "emoji": "📚",
     "meaning": "A place where books are kept",
-    "sentence": "I borrowed a book from the library.",
-    "options": ["Library", "Hospital", "Park", "Road"],
+    "sentence": "I borrowed a story book from the library.",
+    "options": ["Market", "Hospital", "Library", "Park"],
     "answer": "Library"
-  },
-  {
-    "word": "Notebook",
-    "emoji": "📒",
-    "meaning": "A book for writing notes",
-    "sentence": "I keep my notes in a notebook.",
-    "options": ["Notebook", "Chair", "Bag", "Bottle"],
-    "answer": "Notebook"
-  },
-  {
-    "word": "Pencil",
-    "emoji": "✏️",
-    "meaning": "A tool used for writing",
-    "sentence": "I sharpen my pencil daily.",
-    "options": ["Pencil", "Book", "Desk", "Fan"],
-    "answer": "Pencil"
-  },
-  {
-    "word": "Computer",
-    "emoji": "💻",
-    "meaning": "An electronic machine",
-    "sentence": "We use a computer in class.",
-    "options": ["Computer", "Table", "Window", "Door"],
-    "answer": "Computer"
-  },
-  {
-    "word": "Question",
-    "emoji": "❓",
-    "meaning": "Something asked to get information",
-    "sentence": "The teacher asked a question.",
-    "options": ["Answer", "Question", "Lesson", "Story"],
-    "answer": "Question"
-  },
-  {
-    "word": "Answer",
-    "emoji": "✅",
-    "meaning": "A response to a question",
-    "sentence": "She knew the correct answer.",
-    "options": ["Question", "Answer", "Book", "Bag"],
-    "answer": "Answer"
-  },
-  {
-    "word": "Sun",
-    "emoji": "☀️",
-    "meaning": "The star that gives Earth light",
-    "sentence": "The sun rises in the east.",
-    "options": ["Moon", "Sun", "Star", "Cloud"],
-    "answer": "Sun"
-  },
-  {
-    "word": "Moon",
-    "emoji": "🌙",
-    "meaning": "Earth's natural satellite",
-    "sentence": "The moon shines at night.",
-    "options": ["Sun", "Moon", "River", "Tree"],
-    "answer": "Moon"
-  },
-  {
-    "word": "Star",
-    "emoji": "⭐",
-    "meaning": "A bright object in the sky",
-    "sentence": "Many stars are visible tonight.",
-    "options": ["Cloud", "Star", "Rain", "Rock"],
-    "answer": "Star"
-  },
-  {
-    "word": "Cloud",
-    "emoji": "☁️",
-    "meaning": "A mass of water droplets in the sky",
-    "sentence": "Dark clouds covered the sky.",
-    "options": ["Cloud", "Tree", "Flower", "Road"],
-    "answer": "Cloud"
-  },
-  {
-    "word": "Rain",
-    "emoji": "🌧️",
-    "meaning": "Water falling from clouds",
-    "sentence": "The rain helped the plants grow.",
-    "options": ["Snow", "Rain", "Wind", "Sun"],
-    "answer": "Rain"
-  },
-  {
-    "word": "River",
-    "emoji": "🏞️",
-    "meaning": "A flowing body of water",
-    "sentence": "The river flows through the village.",
-    "options": ["Road", "River", "Mountain", "Garden"],
-    "answer": "River"
   },
   {
     "word": "Mountain",
     "emoji": "⛰️",
     "meaning": "A very high natural landform",
     "sentence": "The mountain was covered with snow.",
-    "options": ["Mountain", "River", "Road", "Bridge"],
+    "options": ["River", "Mountain", "Road", "Forest"],
     "answer": "Mountain"
-  },
-  {
-    "word": "Forest",
-    "emoji": "🌳",
-    "meaning": "A large area with many trees",
-    "sentence": "Many animals live in the forest.",
-    "options": ["Forest", "Market", "School", "Hospital"],
-    "answer": "Forest"
   },
   {
     "word": "Rainbow",
@@ -314,92 +72,339 @@
     "answer": "Rainbow"
   },
   {
-    "word": "Dog",
-    "emoji": "🐶",
-    "meaning": "A common pet animal",
-    "sentence": "The dog barked loudly.",
-    "options": ["Dog", "Cat", "Cow", "Horse"],
-    "answer": "Dog"
-  },
-  {
-    "word": "Cat",
-    "emoji": "🐱",
-    "meaning": "A small pet animal",
-    "sentence": "The cat is sleeping.",
-    "options": ["Dog", "Cat", "Fish", "Bird"],
-    "answer": "Cat"
-  },
-  {
-    "word": "Elephant",
-    "emoji": "🐘",
-    "meaning": "A very large animal with a trunk",
-    "sentence": "The elephant sprayed water.",
-    "options": ["Elephant", "Tiger", "Dog", "Goat"],
-    "answer": "Elephant"
-  },
-  {
-    "word": "Tiger",
-    "emoji": "🐯",
-    "meaning": "A wild animal with stripes",
-    "sentence": "The tiger lives in the jungle.",
-    "options": ["Lion", "Tiger", "Cow", "Rabbit"],
-    "answer": "Tiger"
-  },
-  {
-    "word": "Horse",
-    "emoji": "🐴",
-    "meaning": "An animal used for riding",
-    "sentence": "The horse ran across the field.",
-    "options": ["Horse", "Dog", "Cat", "Fish"],
-    "answer": "Horse"
-  },
-  {
-    "word": "Bird",
-    "emoji": "🐦",
-    "meaning": "An animal with wings and feathers",
-    "sentence": "The bird built a nest.",
-    "options": ["Bird", "Fish", "Rabbit", "Cow"],
-    "answer": "Bird"
-  },
-  {
-    "word": "Family",
-    "emoji": "👨‍👩‍👧‍👦",
-    "meaning": "People related to each other",
-    "sentence": "My family went on a trip.",
-    "options": ["Family", "School", "Market", "Office"],
-    "answer": "Family"
+    "word": "Butterfly",
+    "emoji": "🦋",
+    "meaning": "An insect with colorful wings",
+    "sentence": "A butterfly sat on the flower.",
+    "options": ["Bird", "Butterfly", "Fish", "Rabbit"],
+    "answer": "Butterfly"
   },
   {
     "word": "Friend",
     "emoji": "🧒",
     "meaning": "A person you like and trust",
-    "sentence": "Ravi is my best friend.",
-    "options": ["Teacher", "Friend", "Doctor", "Farmer"],
+    "sentence": "Aman is my best friend.",
+    "options": ["Friend", "Teacher", "Doctor", "Driver"],
     "answer": "Friend"
   },
   {
-    "word": "Mother",
-    "emoji": "👩",
-    "meaning": "A female parent",
-    "sentence": "My mother made breakfast.",
-    "options": ["Mother", "Teacher", "Doctor", "Aunt"],
-    "answer": "Mother"
+    "word": "Respect",
+    "emoji": "🙏",
+    "meaning": "Treating others politely and kindly",
+    "sentence": "We should respect our elders.",
+    "options": ["Respect", "Ignore", "Fight", "Laugh"],
+    "answer": "Respect"
   },
   {
-    "word": "Father",
-    "emoji": "👨",
-    "meaning": "A male parent",
-    "sentence": "My father reads the newspaper.",
-    "options": ["Father", "Uncle", "Brother", "Teacher"],
-    "answer": "Father"
+    "word": "Kind",
+    "emoji": "❤️",
+    "meaning": "Being caring and helpful",
+    "sentence": "She is kind to everyone.",
+    "options": ["Kind", "Rude", "Angry", "Mean"],
+    "answer": "Kind"
   },
   {
-    "word": "Water",
-    "emoji": "💧",
-    "meaning": "A liquid that we drink",
-    "sentence": "Drink plenty of water every day.",
-    "options": ["Milk", "Juice", "Water", "Tea"],
-    "answer": "Water"
+    "word": "Polite",
+    "emoji": "😊",
+    "meaning": "Having good manners",
+    "sentence": "The polite boy said thank you.",
+    "options": ["Polite", "Noisy", "Lazy", "Careless"],
+    "answer": "Polite"
+  },
+  {
+    "word": "Cheerful",
+    "emoji": "😁",
+    "meaning": "Always happy and positive",
+    "sentence": "Her cheerful smile made everyone happy.",
+    "options": ["Sad", "Cheerful", "Angry", "Lonely"],
+    "answer": "Cheerful"
+  },
+  {
+    "word": "School",
+    "emoji": "🏫",
+    "meaning": "A place where children learn",
+    "sentence": "I go to school every day.",
+    "options": ["School", "Market", "Hospital", "Park"],
+    "answer": "School"
+  },
+  {
+    "word": "Notebook",
+    "emoji": "📒",
+    "meaning": "A book used for writing",
+    "sentence": "I wrote my homework in the notebook.",
+    "options": ["Notebook", "Bag", "Bottle", "Chair"],
+    "answer": "Notebook"
+  },
+  {
+    "word": "Pencil",
+    "emoji": "✏️",
+    "meaning": "A tool used for writing",
+    "sentence": "My pencil is very sharp.",
+    "options": ["Pen", "Pencil", "Book", "Scale"],
+    "answer": "Pencil"
+  },
+  {
+    "word": "Computer",
+    "emoji": "💻",
+    "meaning": "An electronic machine used for work and learning",
+    "sentence": "I use a computer to learn coding.",
+    "options": ["Computer", "Television", "Fan", "Clock"],
+    "answer": "Computer"
+  },
+  {
+    "word": "Science",
+    "emoji": "🔬",
+    "meaning": "The study of nature and how things work",
+    "sentence": "Science is my favorite subject.",
+    "options": ["Science", "History", "Music", "Drawing"],
+    "answer": "Science"
+  },
+  {
+    "word": "Planet",
+    "emoji": "🪐",
+    "meaning": "A large object that moves around a star",
+    "sentence": "Earth is a planet.",
+    "options": ["Star", "Planet", "Cloud", "Mountain"],
+    "answer": "Planet"
+  },
+  {
+    "word": "Forest",
+    "emoji": "🌲",
+    "meaning": "A large area covered with trees",
+    "sentence": "Many animals live in the forest.",
+    "options": ["Forest", "River", "Road", "School"],
+    "answer": "Forest"
+  },
+  {
+    "word": "River",
+    "emoji": "🏞️",
+    "meaning": "A natural flow of water",
+    "sentence": "The river flows to the sea.",
+    "options": ["Mountain", "River", "Cloud", "Garden"],
+    "answer": "River"
+  },
+  {
+    "word": "Garden",
+    "emoji": "🌷",
+    "meaning": "A place where plants and flowers grow",
+    "sentence": "My grandmother grows roses in the garden.",
+    "options": ["Garden", "Market", "School", "Road"],
+    "answer": "Garden"
+  },
+  {
+    "word": "Flower",
+    "emoji": "🌹",
+    "meaning": "The colorful part of a plant",
+    "sentence": "The flower smells sweet.",
+    "options": ["Leaf", "Flower", "Root", "Seed"],
+    "answer": "Flower"
+  },
+  {
+    "word": "Elephant",
+    "emoji": "🐘",
+    "meaning": "A very large land animal",
+    "sentence": "The elephant used its trunk to drink water.",
+    "options": ["Tiger", "Elephant", "Horse", "Dog"],
+    "answer": "Elephant"
+  },
+  {
+    "word": "Tiger",
+    "emoji": "🐯",
+    "meaning": "A wild animal with black stripes",
+    "sentence": "The tiger lives in forests.",
+    "options": ["Tiger", "Cow", "Goat", "Rabbit"],
+    "answer": "Tiger"
+  },
+  {
+    "word": "Rabbit",
+    "emoji": "🐰",
+    "meaning": "A small animal with long ears",
+    "sentence": "The rabbit hopped across the field.",
+    "options": ["Rabbit", "Dog", "Cat", "Horse"],
+    "answer": "Rabbit"
+  },
+  {
+    "word": "Dolphin",
+    "emoji": "🐬",
+    "meaning": "A smart sea animal",
+    "sentence": "The dolphin jumped out of the water.",
+    "options": ["Fish", "Dolphin", "Crab", "Turtle"],
+    "answer": "Dolphin"
+  },
+  {
+    "word": "Penguin",
+    "emoji": "🐧",
+    "meaning": "A bird that cannot fly",
+    "sentence": "The penguin lives in cold places.",
+    "options": ["Duck", "Penguin", "Crow", "Parrot"],
+    "answer": "Penguin"
+  },
+  {
+    "word": "Healthy",
+    "emoji": "💪",
+    "meaning": "Being strong and free from illness",
+    "sentence": "Eating fruits keeps us healthy.",
+    "options": ["Healthy", "Weak", "Tired", "Sick"],
+    "answer": "Healthy"
+  },
+  {
+    "word": "Exercise",
+    "emoji": "🏃",
+    "meaning": "Physical activity for fitness",
+    "sentence": "I exercise every morning.",
+    "options": ["Exercise", "Sleep", "Study", "Cook"],
+    "answer": "Exercise"
+  },
+  {
+    "word": "Breakfast",
+    "emoji": "🥣",
+    "meaning": "The first meal of the day",
+    "sentence": "I eat breakfast before school.",
+    "options": ["Lunch", "Dinner", "Breakfast", "Snack"],
+    "answer": "Breakfast"
+  },
+  {
+    "word": "Vitamin",
+    "emoji": "🍊",
+    "meaning": "A nutrient needed for good health",
+    "sentence": "Oranges contain vitamin C.",
+    "options": ["Vitamin", "Stone", "Water", "Paper"],
+    "answer": "Vitamin"
+  },
+  {
+    "word": "Hygiene",
+    "emoji": "🧼",
+    "meaning": "Keeping yourself clean and healthy",
+    "sentence": "Good hygiene prevents diseases.",
+    "options": ["Hygiene", "Mess", "Noise", "Dust"],
+    "answer": "Hygiene"
+  },
+  {
+    "word": "Internet",
+    "emoji": "🌐",
+    "meaning": "A worldwide network of computers",
+    "sentence": "We use the internet to find information.",
+    "options": ["Internet", "Book", "Chair", "Bag"],
+    "answer": "Internet"
+  },
+  {
+    "word": "Robot",
+    "emoji": "🤖",
+    "meaning": "A machine that can do tasks automatically",
+    "sentence": "The robot cleaned the floor.",
+    "options": ["Robot", "Teacher", "Doctor", "Driver"],
+    "answer": "Robot"
+  },
+  {
+    "word": "Password",
+    "emoji": "🔐",
+    "meaning": "A secret word used for security",
+    "sentence": "Never share your password with strangers.",
+    "options": ["Password", "Notebook", "Window", "Bottle"],
+    "answer": "Password"
+  },
+  {
+    "word": "Coding",
+    "emoji": "👨‍💻",
+    "meaning": "Writing instructions for a computer",
+    "sentence": "I am learning coding in school.",
+    "options": ["Drawing", "Coding", "Cooking", "Singing"],
+    "answer": "Coding"
+  },
+  {
+    "word": "Website",
+    "emoji": "🌍",
+    "meaning": "A collection of web pages on the internet",
+    "sentence": "I visited a science website.",
+    "options": ["Website", "Book", "Market", "Road"],
+    "answer": "Website"
+  },
+  {
+    "word": "Courage",
+    "emoji": "🛡️",
+    "meaning": "The ability to face fear",
+    "sentence": "It takes courage to tell the truth.",
+    "options": ["Fear", "Courage", "Anger", "Laziness"],
+    "answer": "Courage"
+  },
+  {
+    "word": "Patience",
+    "emoji": "⏳",
+    "meaning": "The ability to wait calmly",
+    "sentence": "Patience helps us learn better.",
+    "options": ["Patience", "Speed", "Noise", "Anger"],
+    "answer": "Patience"
+  },
+  {
+    "word": "Teamwork",
+    "emoji": "🤝",
+    "meaning": "Working together with others",
+    "sentence": "Teamwork helped us win the game.",
+    "options": ["Teamwork", "Fighting", "Sleeping", "Ignoring"],
+    "answer": "Teamwork"
+  },
+  {
+    "word": "Creativity",
+    "emoji": "🎨",
+    "meaning": "Using imagination to create new ideas",
+    "sentence": "Her creativity impressed the judges.",
+    "options": ["Creativity", "Silence", "Fear", "Confusion"],
+    "answer": "Creativity"
+  },
+  {
+    "word": "Confidence",
+    "emoji": "😎",
+    "meaning": "Believing in yourself",
+    "sentence": "Confidence helped her speak on stage.",
+    "options": ["Confidence", "Fear", "Doubt", "Weakness"],
+    "answer": "Confidence"
+  },
+  {
+    "word": "Market",
+    "emoji": "🛒",
+    "meaning": "A place where people buy and sell goods",
+    "sentence": "We bought vegetables from the market.",
+    "options": ["School", "Market", "Park", "Library"],
+    "answer": "Market"
+  },
+  {
+    "word": "Bicycle",
+    "emoji": "🚲",
+    "meaning": "A vehicle with two wheels",
+    "sentence": "I ride my bicycle every evening.",
+    "options": ["Car", "Bus", "Bicycle", "Train"],
+    "answer": "Bicycle"
+  },
+  {
+    "word": "Calendar",
+    "emoji": "📅",
+    "meaning": "A chart showing days and months",
+    "sentence": "I marked my birthday on the calendar.",
+    "options": ["Clock", "Calendar", "Map", "Book"],
+    "answer": "Calendar"
+  },
+  {
+    "word": "Window",
+    "emoji": "🪟",
+    "meaning": "An opening in a wall to let in light and air",
+    "sentence": "Please open the window.",
+    "options": ["Door", "Window", "Roof", "Chair"],
+    "answer": "Window"
+  },
+  {
+    "word": "Toy",
+    "emoji": "🧸",
+    "meaning": "An object children play with",
+    "sentence": "My favorite toy is a teddy bear.",
+    "options": ["Book", "Toy", "Table", "Bottle"],
+    "answer": "Toy"
+  },
+  {
+    "word": "Determination",
+    "emoji": "🏆",
+    "meaning": "Continuing to work hard until success",
+    "sentence": "Her determination helped her finish the race.",
+    "options": ["Determination", "Laziness", "Fear", "Confusion"],
+    "answer": "Determination"
   }
 ]
-```
